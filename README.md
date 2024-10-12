@@ -24,7 +24,7 @@ Finally, we determined state Medicaid program coverage of CAB/RPV and LEN based 
 - _Limited Access_:	Appears on state PDL with designation as Non-Preferred; _OR_ State explicitly requires PA; _OR_ Does not appear on PDL or drug lookup and is likely to only be covered through medical billing.
 - _Missing_:	No current PDL, drug lookup web page, or other information available on coverage by FFS Medicaid.
 
-In the data file, Table 1 contains one row per state and Table 2 contains one row per MCO for those states that do not have uniform coverage of ARVs across FFS Medicaid and MCOs.
+In the data file (https://github.com/laurenzalla/lai-art/blob/main/lai-art_medicaid_11oct24.xlsx), Table 1 contains one row per state and Table 2 contains one row per MCO for those states that do not have uniform coverage of ARVs across FFS Medicaid and MCOs.
 
 **Figure 1**. Medicaid prescription drug coverage of cabotegravir/rilpivirine (CAB/RPV) by state, 2024
 <img width="749" alt="cab_rpv" src="https://github.com/user-attachments/assets/ad3cbba7-a715-4482-9199-93f2694b602e">
